@@ -16,6 +16,20 @@ You can find the solution to this problem in the `sum_of_elements_in_array.py` f
 
 ---
 
+## Problem 2: Find Maximum and Minimum Element in an Array
+
+### Problem Description
+
+Write a function that finds the maximum and minimum elements in an array.
+
+### Solution
+
+You can find the solution to this problem in the `max_min_element_in_array.py` file.
+
+
+---
+
+
 Feel free to explore the solution and contribute your own solutions or improvements to the existing one. It's a great way to practice and learn more about arrays in DSA.
 
 ## Contributing
