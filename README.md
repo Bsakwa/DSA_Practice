@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Practic
+# Data Structures and Algorithms Practice
 
 This repository is dedicated to my daily practice of Data Structures and Algorithms (DSA). I will be solving various problems, ranging from simple to complex, to improve my problem-solving skills and understanding of DSA concepts.
 
